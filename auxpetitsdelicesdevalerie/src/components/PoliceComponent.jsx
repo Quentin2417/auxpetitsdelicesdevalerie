@@ -1,7 +1,7 @@
 export const PoliceComponent = () => {
     return (
       <div>
-        <p className="font-pinyon-script"></p>
+        <p className="font-mono"></p>
       </div>
     );
   }
